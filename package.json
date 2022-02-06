@@ -1,0 +1,22 @@
+{
+  "name": "nedb-demo",
+  "version": "1.0.0",
+  "description": "ejemplo del uso de nedb",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelBarrazaAr/nedb-ejemplos.git"
+  },
+  "author": "Miguel Barraza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelBarrazaAr/nedb-ejemplos/issues"
+  },
+  "homepage": "https://github.com/MiguelBarrazaAr/nedb-ejemplos#readme",
+  "dependencies": {
+    "nedb": "^1.8.0"
+  }
+}
